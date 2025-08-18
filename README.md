@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ammar Hammouch</h1>
-<h3 align="center">Fresh Graduate & Full-Stack Web Engineer</h3>
+<h3 align="center">Fresh Graduate & Mobile Engineer</h3>
 
 <p align="center">
   <a href="https://ahammouch.xyz/" target="_blank">
