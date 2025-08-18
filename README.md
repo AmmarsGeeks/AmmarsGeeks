@@ -59,9 +59,10 @@ What drives me?
 
 ### 🎓 Education  
 
-**B.Sc. in Computer Science**  
+**Bachelor in Computer Science**  
 🏫 Jazan University  
-📊 GPA: ![GPA](https://img.shields.io/badge/4.86%2F5.0-success?style=flat-square&logo=google-scholar&logoColor=white)
+📊 GPA: ![GPA](https://img.shields.io/badge/4.86%2F5.0-success?style=flat-square&logo=google-scholar&logoColor=white)  
+🏅 First Class Honor
 
 
 ### 📬 Contact
