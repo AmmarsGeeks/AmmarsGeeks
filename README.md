@@ -3,15 +3,16 @@
 
 <p align="center">
   <a href="https://ahammouch.xyz/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Portfolio" />
   </a>
   <a href="mailto:hi@ahammouch.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Email-me-d14836?style=for-the-badge&logo=gmail" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ammar-hammouch/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-anas--alanzi-0e76a8?style=for-the-badge&logo=linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AmmarsGeeks" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anas--js-333?style=for-the-badge&logo=github" />
+     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub" />
   </a>
 </p>
 
@@ -53,20 +54,14 @@ What drives me?
 
 - [View Resume](https://drive.google.com/file/d/1hSxFrsbYs3Z_XKYMeZgxDQ3KKirlLyBW/view)
 
----
-
-### 🧩 Featured Projects
-
 
 ---
 
+### 🎓 Education  
 
-### 🎓 Education
-**BSc in Computer Science**  
-Northern Border University (Expected: 2025)  
-📈 GPA: 4.71
-
----
+**B.Sc. in Computer Science**  
+🏫 Jazan University  
+📊 GPA: ![GPA](https://img.shields.io/badge/4.86%2F5.0-success?style=flat-square&logo=google-scholar&logoColor=white)
 
 
 ### 📬 Contact
