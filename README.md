@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ammar Hammouch</h1>
-<h3 align="center">Fresh Graduate & Mobile Engineer</h3>
+<h3 align="center">Integration & Data Engineer</h3>
 
 <p align="center">
   <a href="https://ahammouch.xyz/" target="_blank">
@@ -66,8 +66,8 @@ What drives me?
 
 
 ### 📬 Contact
-- 📧 Email: [anas.mr.alanzi@gmail.com](mailto:hi@ahammouch.xyz)
-- 🌍 Portfolio: [anas.juzr.sa]([https://anas.juzr.sa/](https://ahammouch.xyz/))
-- 💼 LinkedIn: [@anas-alanzi](https://www.linkedin.com/in/ammar-hammouch/)
+- 📧 Email: [hi@ahammouch.xyz](mailto:hi@ahammouch.xyz)
+- 🌍 Portfolio: [ahammouch.xyz]([https://anas.juzr.sa/](https://ahammouch.xyz/))
+- 💼 LinkedIn: [@ammar-hammouch](https://www.linkedin.com/in/ammar-hammouch/)
 
 ---
