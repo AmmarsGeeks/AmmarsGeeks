@@ -1,73 +1,70 @@
-<h1 align="center">Hello 👋, I'm Ammar Hammouch</h1>
-<h3 align="center">Integration & Data Engineer</h3>
+<img width="180" align="right" alt="Coding Animation" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+# Hey there! I'm Ammar Hammouch 👋
+### Data & AI Systems Engineer · Riyadh, SA 🇸🇦
+
+I design and ship scalable data platforms, autonomous agentic AI systems, and enterprise integrations.
+
+- 🔭 **Focus:** Autonomous agentic workflows, event-driven data pipelines, and production AI systems.
+- 🏆 **Hackathons:** Finalist at Anthropic AI Hackathon & Winner at Cornell AI Hackathon.
+- 📍 **Location:** Riyadh, Saudi Arabia.
+- 🌐 **Portfolio:** [ahammouch.me](https://ahammouch.me)
+
+---
+
+### 🛠️ Languages & Tools
+
+- 🧠 **AI & Agentic Systems:**  
+  ![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=3776AB)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=flat&logo=fastapi&logoColor=009688)
+  ![Claude](https://img.shields.io/badge/Anthropic_Claude-20232A?style=flat&logo=anthropic&logoColor=D97706)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-20232A?style=flat&logo=openai&logoColor=412991)
+  ![LangChain](https://img.shields.io/badge/LangChain_/_LangGraph-20232A?style=flat&logo=chainlink&logoColor=white)
+
+- ⚡ **Data & Infrastructure:**  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql&logoColor=4169E1)
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-20232A?style=flat&logo=apachekafka&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-20232A?style=flat&logo=redis&logoColor=DC382D)
+  ![Docker](https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED)
+  ![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032)
+
+- 💻 **Full-Stack & Systems:**  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
+  ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat&logo=tailwindcss&logoColor=38B2AC)
+
+---
+
+### 🚀 Flagship Systems
+
+- ⚡ **[Velocity](https://ahammouch.me/projects/velocity)** — Autonomous startup prospecting & hypothesis-testing agentic loops using Claude 3.5 Sonnet & LangGraph. *(🏆 Anthropic AI Hackathon Finalist)*
+- 🔬 **[Dscvr.ai](https://ahammouch.me/projects/dscvr-ai)** — AI-driven academic research synthesis engine cutting literature review time by 60%. *(🏆 Cornell AI Hackathon Winner)*
+- 🎙️ **[Questly AI](https://ahammouch.me/projects/questly-ai)** — Real-time voice AI mock interviewer with automated rubric evaluation and instant performance analytics.
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://ahammouch.xyz/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Portfolio" />
-  </a>
-  <a href="mailto:hi@ahammouch.xyz" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ammar-hammouch/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AmmarsGeeks" target="_blank">
-     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmmarsGeeks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ammar's GitHub Stats" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 📫 Connect With Me
 
-I'm Ammar Hammouch, Fresh Graduate with a Bachelor's Degree in Computer Science, I bring a solid foundation in both **Technology** and **Business** acumen to the table.
-Particularly interested in **Digital Products**, **Digital Transformation** and **DevOps**
-
-What drives me?  
-> I'm endlessly curious, proactive in learning, and not afraid to ask “why?”
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
+<p align="left">
+  <a href="https://ahammouch.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ahammouch.me-000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ammar-hammouch" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ammar--hammouch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/3mmarhammouch" target="_blank">
+    <img src="https://img.shields.io/badge/X-@3mmarhammouch-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:ahlan@ahammouch.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ahlan@ahammouch.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmmarsGeeks&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-### 📄 Resume
-
-- [View Resume](https://drive.google.com/file/d/1hSxFrsbYs3Z_XKYMeZgxDQ3KKirlLyBW/view)
-
-
----
-
-### 🎓 Education  
-
-**Bachelor in Computer Science**  
-🏫 Jazan University  
-📊 GPA: ![GPA](https://img.shields.io/badge/4.86%2F5.0-success?style=flat-square&logo=google-scholar&logoColor=white)  
-🏅 First Class Honor
-
-
-### 📬 Contact
-- 📧 Email: [hi@ahammouch.xyz](mailto:hi@ahammouch.xyz)
-- 🌍 Portfolio: [ahammouch.xyz]([https://anas.juzr.sa/](https://ahammouch.xyz/))
-- 💼 LinkedIn: [@ammar-hammouch](https://www.linkedin.com/in/ammar-hammouch/)
-
----
