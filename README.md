@@ -6,7 +6,6 @@
 I design and ship scalable data platforms, autonomous agentic AI systems, and enterprise integrations.
 
 - 🔭 **Focus:** Autonomous agentic workflows, event-driven data pipelines, and production AI systems.
-- 🏆 **Hackathons:** Finalist at Anthropic AI Hackathon & Winner at Cornell AI Hackathon.
 - 📍 **Location:** Riyadh, Saudi Arabia.
 - 🌐 **Portfolio:** [ahammouch.me](https://ahammouch.me)
 
